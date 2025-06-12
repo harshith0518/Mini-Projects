@@ -1,1 +1,7 @@
 
+1. Vicsek Model 
+
+2. Schelling Model
+
+3. Course Project 
+
